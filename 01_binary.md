@@ -2,4 +2,5 @@
 
 Hier ist das originale Protokoll meiner Notizen:
 
-![Mein Halbleiter-Aufschrieb](./images/IMG_2789.jpeg)
+![A](./images/IMG_2789.jpeg)
+![O](./images/IMG_2790.jpeg)
