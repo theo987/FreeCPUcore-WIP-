@@ -1,4 +1,4 @@
-# Aufschriebe: Halbleitertechnologie
+# Aufschriebe: BINARY
 
 Hier ist das originale Protokoll meiner Notizen:
 
